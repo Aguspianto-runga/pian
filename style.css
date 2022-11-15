@@ -1,0 +1,32 @@
+body{
+    background-color: #f3f4f5;
+}
+.navbar-brand{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #f4dfff;
+    text-align: center;
+}
+.jumbotron img{
+    width: 200px;
+}
+#projects{
+    background-color: #f4dfff;
+}
+.btn{
+    background-color: blueviolet;
+    color: white;
+}
+footer{
+    background-color:blueviolet;
+    color: white;
+    height: 50px;
+    padding: 10px;
+}
