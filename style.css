@@ -1,7 +1,18 @@
 body{
     background-color: #f3f4f5;
 }
+.navbar{
+  background-color: blueviolet;
+}
 .navbar-brand{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.ofcanvas-title{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+h5{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
@@ -20,15 +31,18 @@ h1{
 #projects{
     background-color: #f4dfff;
 }
+#contact{
+    background-color: #f4dfff;
+   
+}
 .btn{
     background-color: blueviolet;
     color: white;
 }
 footer{
-    background-color:blueviolet;
-    color: white;
+    background-color: #f4dfff;
+    color: black;
     height: 50px;
-    padding: 10px;
 }
 .animate__animated {
   animation-duration: 1s;
