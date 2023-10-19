@@ -22,25 +22,23 @@ h1{
 }
 .jumbotron{
     padding-top: 6rem;
-    background-color: #f4dfff;
+    background-color: #eed3fc;
     text-align: center;
 }
 .jumbotron img{
     width: 200px;
 }
-#projects{
-    background-color: #f4dfff;
+#project{
+    background-color: #eed3fc;
+}
+#sertifikat{
+  background-color: #eed3fc;
 }
 #contact{
-    background-color: #f4dfff;
-   
-}
-.btn{
-    background-color: blueviolet;
-    color: white;
+    background-color: #f3f4f5;
 }
 footer{
-    background-color: #f4dfff;
+    background-color: #eed3fc;
     color: black;
     height: 50px;
 }
