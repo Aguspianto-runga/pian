@@ -1,9 +1,26 @@
 body{
     background-color: #f3f4f5;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style untuk SVG */
+svg {
+  display: block; /* Agar SVG menjadi blok-level element */
+  margin-bottom: -1px; /* Sesuaikan nilai margin-bottom sesuai kebutuhan */
+}
+
+/* Style untuk footer */
+footer {
+  background-color: blueviolet; /* Ganti warna latar belakang sesuai kebutuhan */
+  color: white; /* Ganti warna teks sesuai kebutuhan */
+  text-align: center;
+  padding: 10px; /* Sesuaikan nilai padding sesuai kebutuhan */
+  height: 50px;
 }
 .navbar{
   background-color: blueviolet;
-}
+  }
 .navbar-brand{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
@@ -20,8 +37,8 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bolder;
 }
-section {
-padding-top: 5rem;
+section{
+  padding-top: 4rem;
 }
 .jumbotron{
     padding-top: 6rem;
@@ -39,11 +56,6 @@ padding-top: 5rem;
 }
 #contact{
     background-color: #f3f4f5;
-}
-footer{
-    background-color: blueviolet;
-    color: white;
-    height: 50px;
 }
 .animate__animated {
   animation-duration: 1s;
